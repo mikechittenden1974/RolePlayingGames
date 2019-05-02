@@ -7,7 +7,7 @@ namespace IntroducingCS
         static void Main(string[] args)
         {
 
-            //If not uusing the System Directive, you would need to write the following
+            //If not using the System Directive, you would need to write the following
             //System.Console.WriteLine("Welcome to the RPG!");
             //System.Console.WriteLine("This will introduce you to several programming elements");
 
