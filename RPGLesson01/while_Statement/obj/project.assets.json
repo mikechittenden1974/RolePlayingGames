@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\RPGLesson01\\while_Statement\\while_Statement.csproj",
+      "projectUniqueName": "c:\\users\\mchittenden\\source\\repos\\RPG_Lesson01\\while_Statement\\while_Statement.csproj",
       "projectName": "while_Statement",
-      "projectPath": "F:\\RPGLesson01\\while_Statement\\while_Statement.csproj",
+      "projectPath": "c:\\users\\mchittenden\\source\\repos\\RPG_Lesson01\\while_Statement\\while_Statement.csproj",
       "packagesPath": "C:\\Users\\mchittenden\\.nuget\\packages\\",
-      "outputPath": "F:\\RPGLesson01\\while_Statement\\obj\\",
+      "outputPath": "c:\\users\\mchittenden\\source\\repos\\RPG_Lesson01\\while_Statement\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

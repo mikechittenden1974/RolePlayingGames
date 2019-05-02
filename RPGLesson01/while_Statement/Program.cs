@@ -6,12 +6,6 @@ namespace while_Statement
     {
         static void Main(string[] args)
         {
-            recoveryTest();
-        }
-
-        private static void recoveryTest()
-        {
-            Console.WriteLine("While Loop");
             int i = 0;
             while (i <= 12)
             {

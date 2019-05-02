@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v2.0": {
-      "ifelse_Statement/1.0.0": {
+      "ifElse_Statement/1.0.0": {
         "runtime": {
-          "ifelse_Statement.dll": {}
+          "ifElse_Statement.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "ifelse_Statement/1.0.0": {
+    "ifElse_Statement/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

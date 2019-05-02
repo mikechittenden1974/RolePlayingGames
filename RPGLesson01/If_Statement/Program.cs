@@ -1,23 +1,27 @@
 ﻿using System;
 
-namespace If_Statement
+namespace if_Statement
 {
     class Program
     {
         static void Main(string[] args)
         {
-            //Set an integer variable called baseExp with a value of 0
-            int baseExp = 0;
+            //Declare two variables called baseExp and currentExp
+            int baseExp, currentExp;
+            //Set their values to 0 and 2000 respoectively
+            baseExp = 0;
+            currentExp = 2000;
 
-            //Set an integer variable called currentExp with a value of 2000
-            int currentExp = 2000;
-
-            //Compare currentExp to baseExp
-            //If currentExp is bigger, output the message in the braces
-            //Otherwise terminate the program
-            if (currentExp > baseExp)
+            //Run the if statement with the condition you are evaluating in the parentheses
+            if (currentExp < baseExp)
             {
-                Console.WriteLine("Level Up! Your current experience is bigger than the starting experience");
+                //Place the desired output here if the condition returns TRUE
+                Console.WriteLine("Level Up! You are now blessed with more experience than you started with");
+            }
+            else
+            {
+                //Place the code which executes if the statement returns FALSE here 
+                Console.WriteLine("You need to work harder");
             }
         }
     }

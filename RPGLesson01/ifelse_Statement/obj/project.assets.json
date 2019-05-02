@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\RPGLesson01\\ifelse_Statement\\ifelse_Statement.csproj",
-      "projectName": "ifelse_Statement",
-      "projectPath": "F:\\RPGLesson01\\ifelse_Statement\\ifelse_Statement.csproj",
+      "projectUniqueName": "c:\\users\\mchittenden\\source\\repos\\RPG_Lesson01\\ifElse_Statement\\ifElse_Statement.csproj",
+      "projectName": "ifElse_Statement",
+      "projectPath": "c:\\users\\mchittenden\\source\\repos\\RPG_Lesson01\\ifElse_Statement\\ifElse_Statement.csproj",
       "packagesPath": "C:\\Users\\mchittenden\\.nuget\\packages\\",
-      "outputPath": "F:\\RPGLesson01\\ifelse_Statement\\obj\\",
+      "outputPath": "c:\\users\\mchittenden\\source\\repos\\RPG_Lesson01\\ifElse_Statement\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

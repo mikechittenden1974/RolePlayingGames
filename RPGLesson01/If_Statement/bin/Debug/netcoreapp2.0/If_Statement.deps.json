@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v2.0": {
-      "If_Statement/1.0.0": {
+      "if_Statement/1.0.0": {
         "runtime": {
-          "If_Statement.dll": {}
+          "if_Statement.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "If_Statement/1.0.0": {
+    "if_Statement/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
