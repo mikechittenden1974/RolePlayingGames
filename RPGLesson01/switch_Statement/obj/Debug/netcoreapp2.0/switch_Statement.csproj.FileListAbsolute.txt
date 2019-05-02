@@ -1,0 +1,10 @@
+C:\Users\mchittenden\source\repos\RPGLesson01\switch_Statement\bin\Debug\netcoreapp2.0\switch_Statement.deps.json
+C:\Users\mchittenden\source\repos\RPGLesson01\switch_Statement\bin\Debug\netcoreapp2.0\switch_Statement.runtimeconfig.json
+C:\Users\mchittenden\source\repos\RPGLesson01\switch_Statement\bin\Debug\netcoreapp2.0\switch_Statement.runtimeconfig.dev.json
+C:\Users\mchittenden\source\repos\RPGLesson01\switch_Statement\bin\Debug\netcoreapp2.0\switch_Statement.dll
+C:\Users\mchittenden\source\repos\RPGLesson01\switch_Statement\bin\Debug\netcoreapp2.0\switch_Statement.pdb
+C:\Users\mchittenden\source\repos\RPGLesson01\switch_Statement\obj\Debug\netcoreapp2.0\switch_Statement.csproj.CoreCompileInputs.cache
+C:\Users\mchittenden\source\repos\RPGLesson01\switch_Statement\obj\Debug\netcoreapp2.0\switch_Statement.AssemblyInfoInputs.cache
+C:\Users\mchittenden\source\repos\RPGLesson01\switch_Statement\obj\Debug\netcoreapp2.0\switch_Statement.AssemblyInfo.cs
+C:\Users\mchittenden\source\repos\RPGLesson01\switch_Statement\obj\Debug\netcoreapp2.0\switch_Statement.dll
+C:\Users\mchittenden\source\repos\RPGLesson01\switch_Statement\obj\Debug\netcoreapp2.0\switch_Statement.pdb

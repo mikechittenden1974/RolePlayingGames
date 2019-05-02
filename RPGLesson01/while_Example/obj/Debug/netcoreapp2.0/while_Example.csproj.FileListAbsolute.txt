@@ -1,0 +1,11 @@
+C:\Users\mchittenden\source\repos\RPGLesson01\while_Example\obj\Debug\netcoreapp2.0\while_Example.csprojAssemblyReference.cache
+C:\Users\mchittenden\source\repos\RPGLesson01\while_Example\obj\Debug\netcoreapp2.0\while_Example.csproj.CoreCompileInputs.cache
+C:\Users\mchittenden\source\repos\RPGLesson01\while_Example\obj\Debug\netcoreapp2.0\while_Example.AssemblyInfoInputs.cache
+C:\Users\mchittenden\source\repos\RPGLesson01\while_Example\obj\Debug\netcoreapp2.0\while_Example.AssemblyInfo.cs
+C:\Users\mchittenden\source\repos\RPGLesson01\while_Example\bin\Debug\netcoreapp2.0\while_Example.deps.json
+C:\Users\mchittenden\source\repos\RPGLesson01\while_Example\bin\Debug\netcoreapp2.0\while_Example.runtimeconfig.json
+C:\Users\mchittenden\source\repos\RPGLesson01\while_Example\bin\Debug\netcoreapp2.0\while_Example.runtimeconfig.dev.json
+C:\Users\mchittenden\source\repos\RPGLesson01\while_Example\bin\Debug\netcoreapp2.0\while_Example.dll
+C:\Users\mchittenden\source\repos\RPGLesson01\while_Example\bin\Debug\netcoreapp2.0\while_Example.pdb
+C:\Users\mchittenden\source\repos\RPGLesson01\while_Example\obj\Debug\netcoreapp2.0\while_Example.dll
+C:\Users\mchittenden\source\repos\RPGLesson01\while_Example\obj\Debug\netcoreapp2.0\while_Example.pdb

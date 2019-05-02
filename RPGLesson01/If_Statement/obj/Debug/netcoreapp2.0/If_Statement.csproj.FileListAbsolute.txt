@@ -1,0 +1,11 @@
+C:\Users\mchittenden\source\repos\RPGLesson01\If_Statement\obj\Debug\netcoreapp2.0\If_Statement.csprojAssemblyReference.cache
+C:\Users\mchittenden\source\repos\RPGLesson01\If_Statement\obj\Debug\netcoreapp2.0\If_Statement.csproj.CoreCompileInputs.cache
+C:\Users\mchittenden\source\repos\RPGLesson01\If_Statement\obj\Debug\netcoreapp2.0\If_Statement.AssemblyInfoInputs.cache
+C:\Users\mchittenden\source\repos\RPGLesson01\If_Statement\obj\Debug\netcoreapp2.0\If_Statement.AssemblyInfo.cs
+C:\Users\mchittenden\source\repos\RPGLesson01\If_Statement\bin\Debug\netcoreapp2.0\If_Statement.deps.json
+C:\Users\mchittenden\source\repos\RPGLesson01\If_Statement\bin\Debug\netcoreapp2.0\If_Statement.runtimeconfig.json
+C:\Users\mchittenden\source\repos\RPGLesson01\If_Statement\bin\Debug\netcoreapp2.0\If_Statement.runtimeconfig.dev.json
+C:\Users\mchittenden\source\repos\RPGLesson01\If_Statement\bin\Debug\netcoreapp2.0\If_Statement.dll
+C:\Users\mchittenden\source\repos\RPGLesson01\If_Statement\bin\Debug\netcoreapp2.0\If_Statement.pdb
+C:\Users\mchittenden\source\repos\RPGLesson01\If_Statement\obj\Debug\netcoreapp2.0\If_Statement.dll
+C:\Users\mchittenden\source\repos\RPGLesson01\If_Statement\obj\Debug\netcoreapp2.0\If_Statement.pdb

@@ -1,0 +1,10 @@
+C:\Users\mchittenden\source\repos\RPGLesson01\ifelse_Statement\bin\Debug\netcoreapp2.0\ifelse_Statement.deps.json
+C:\Users\mchittenden\source\repos\RPGLesson01\ifelse_Statement\bin\Debug\netcoreapp2.0\ifelse_Statement.runtimeconfig.json
+C:\Users\mchittenden\source\repos\RPGLesson01\ifelse_Statement\bin\Debug\netcoreapp2.0\ifelse_Statement.runtimeconfig.dev.json
+C:\Users\mchittenden\source\repos\RPGLesson01\ifelse_Statement\bin\Debug\netcoreapp2.0\ifelse_Statement.dll
+C:\Users\mchittenden\source\repos\RPGLesson01\ifelse_Statement\bin\Debug\netcoreapp2.0\ifelse_Statement.pdb
+C:\Users\mchittenden\source\repos\RPGLesson01\ifelse_Statement\obj\Debug\netcoreapp2.0\ifelse_Statement.csproj.CoreCompileInputs.cache
+C:\Users\mchittenden\source\repos\RPGLesson01\ifelse_Statement\obj\Debug\netcoreapp2.0\ifelse_Statement.AssemblyInfoInputs.cache
+C:\Users\mchittenden\source\repos\RPGLesson01\ifelse_Statement\obj\Debug\netcoreapp2.0\ifelse_Statement.AssemblyInfo.cs
+C:\Users\mchittenden\source\repos\RPGLesson01\ifelse_Statement\obj\Debug\netcoreapp2.0\ifelse_Statement.dll
+C:\Users\mchittenden\source\repos\RPGLesson01\ifelse_Statement\obj\Debug\netcoreapp2.0\ifelse_Statement.pdb
