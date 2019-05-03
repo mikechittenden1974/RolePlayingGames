@@ -19,6 +19,8 @@ namespace WorkingWithClasses
         private int charisma;
         private int wisdom;
 
+        protected string type;
+
         //Properties
 
         public string Name
@@ -494,7 +496,22 @@ namespace WorkingWithClasses
                         return;
                 }
             }
+
         }
+        public string Type
+
+        {
+            get
+            {
+                return type;
+            }
+            set
+            {
+                if ((value != null) || (value != ""))
+                    type = value;
+            }
+        }
+
 
         //Methods
         public double getHealth()
@@ -518,6 +535,19 @@ namespace WorkingWithClasses
             return l.Next(0, 9);
         }
 
+        public virtual double dmg()
+        {
+            Random d = new Random();
+            double strike = d.Next(1, 6);
+            double attack = (0.5 * Strength) * strike;
+            return attack;
+        }
+
+        public virtual double setDmg()
+        {
+            return (n * 2) + 5;
+        }
+
         public void Display()
         {
             Console.WriteLine("Name :  {0}\t\tRace : {1}\t\tProfession: {2}", name, race, profession);
@@ -527,10 +557,12 @@ namespace WorkingWithClasses
             Console.WriteLine("\tConstitution:\t\t{0}", constitution);
             Console.WriteLine("\tCharisma:\t\t{0}", charisma);
             Console.WriteLine("\tWisdom:\t\t\t{0}\n", wisdom);
+            Console.WriteLine("\tType:\t\t\t{0}\n", type);
             Console.WriteLine("\tHealth:\t\t\t{0}", getHealth());
             Console.WriteLine("\tArmour:\t\t\t{0}\n", getArmour());
             Console.WriteLine("\tMagic Points:\t\t{0}", getMagic());
             Console.WriteLine("\tLuck:\t\t\t{0}", getLuck());
+            Console.WriteLine("\tYou inflict {0} damage with your {1}", setDmg(), type);
         }
 
   

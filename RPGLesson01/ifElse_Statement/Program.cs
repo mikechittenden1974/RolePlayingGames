@@ -7,7 +7,7 @@ namespace ifElse_Statement
         static void Main(string[] args)
         {
             //Add the question you want answered here
-            //This will constitte the program bases
+            //This will constitute the program bases
             Console.WriteLine("What is your experience?");
 
             //Initialise a variable called exp which converts the string into an Integer using the Parse() method

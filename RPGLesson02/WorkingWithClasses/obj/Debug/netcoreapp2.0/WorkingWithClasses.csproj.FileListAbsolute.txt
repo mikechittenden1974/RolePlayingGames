@@ -20,3 +20,14 @@ C:\Users\Mike\Documents\GitHub\RolePlayingGames\RPGLesson02\WorkingWithClasses\o
 C:\Users\Mike\Documents\GitHub\RolePlayingGames\RPGLesson02\WorkingWithClasses\obj\Debug\netcoreapp2.0\WorkingWithClasses.AssemblyInfo.cs
 C:\Users\Mike\Documents\GitHub\RolePlayingGames\RPGLesson02\WorkingWithClasses\obj\Debug\netcoreapp2.0\WorkingWithClasses.dll
 C:\Users\Mike\Documents\GitHub\RolePlayingGames\RPGLesson02\WorkingWithClasses\obj\Debug\netcoreapp2.0\WorkingWithClasses.pdb
+C:\Users\micha\Source\Repos\mikechittenden1974\RolePlayingGames\RPGLesson02\WorkingWithClasses\bin\Debug\netcoreapp2.0\WorkingWithClasses.deps.json
+C:\Users\micha\Source\Repos\mikechittenden1974\RolePlayingGames\RPGLesson02\WorkingWithClasses\bin\Debug\netcoreapp2.0\WorkingWithClasses.runtimeconfig.json
+C:\Users\micha\Source\Repos\mikechittenden1974\RolePlayingGames\RPGLesson02\WorkingWithClasses\bin\Debug\netcoreapp2.0\WorkingWithClasses.runtimeconfig.dev.json
+C:\Users\micha\Source\Repos\mikechittenden1974\RolePlayingGames\RPGLesson02\WorkingWithClasses\bin\Debug\netcoreapp2.0\WorkingWithClasses.dll
+C:\Users\micha\Source\Repos\mikechittenden1974\RolePlayingGames\RPGLesson02\WorkingWithClasses\bin\Debug\netcoreapp2.0\WorkingWithClasses.pdb
+C:\Users\micha\Source\Repos\mikechittenden1974\RolePlayingGames\RPGLesson02\WorkingWithClasses\obj\Debug\netcoreapp2.0\WorkingWithClasses.csprojAssemblyReference.cache
+C:\Users\micha\Source\Repos\mikechittenden1974\RolePlayingGames\RPGLesson02\WorkingWithClasses\obj\Debug\netcoreapp2.0\WorkingWithClasses.csproj.CoreCompileInputs.cache
+C:\Users\micha\Source\Repos\mikechittenden1974\RolePlayingGames\RPGLesson02\WorkingWithClasses\obj\Debug\netcoreapp2.0\WorkingWithClasses.AssemblyInfoInputs.cache
+C:\Users\micha\Source\Repos\mikechittenden1974\RolePlayingGames\RPGLesson02\WorkingWithClasses\obj\Debug\netcoreapp2.0\WorkingWithClasses.AssemblyInfo.cs
+C:\Users\micha\Source\Repos\mikechittenden1974\RolePlayingGames\RPGLesson02\WorkingWithClasses\obj\Debug\netcoreapp2.0\WorkingWithClasses.dll
+C:\Users\micha\Source\Repos\mikechittenden1974\RolePlayingGames\RPGLesson02\WorkingWithClasses\obj\Debug\netcoreapp2.0\WorkingWithClasses.pdb

@@ -18,6 +18,8 @@ namespace WorkingWithClasses
         private int charisma;
         private int wisdom;
 
+        private string type;
+
         //Properties
 
         public string Name
@@ -98,7 +100,7 @@ namespace WorkingWithClasses
                     case "Human":
                     case "human":
                     case "HUMAN":
-                        if ((value >=5) && (value <=18))
+                        if ((value >= 5) && (value <= 18))
                         {
                             strength = value;
                         }
@@ -260,7 +262,7 @@ namespace WorkingWithClasses
                     case "Dwarf":
                     case "dwarf":
                     case "DWARF":
-                        value = value - 2 ;
+                        value = value - 2;
                         if ((value >= 5) && (value <= 16))
                         {
                             intelligence = value;
@@ -495,6 +497,19 @@ namespace WorkingWithClasses
             }
         }
 
+        public string Type
+        {
+            get
+            {
+                return type;
+            }
+            set
+            {
+                if ((value != null) || (value != ""))
+                    type = value;
+            }
+        }
+
         //Methods
         public double getHealth()
         {
@@ -517,6 +532,8 @@ namespace WorkingWithClasses
             return l.Next(0, 9);
         }
 
+
+
         public void Display()
         {
             Console.WriteLine("Name :  {0}\t\tRace : {1}\t\tProfession: {2}", name, race, profession);
@@ -526,6 +543,7 @@ namespace WorkingWithClasses
             Console.WriteLine("\tConstitution:\t\t{0}", constitution);
             Console.WriteLine("\tCharisma:\t\t{0}", charisma);
             Console.WriteLine("\tWisdom:\t\t\t{0}\n", wisdom);
+            Console.WriteLine("\tWeapon:\t\t\t{0}", type);
             Console.WriteLine("\tHealth:\t\t\t{0}", getHealth());
             Console.WriteLine("\tArmour:\t\t\t{0}\n", getArmour());
             Console.WriteLine("\tMagic Points:\t\t{0}", getMagic());
@@ -533,4 +551,6 @@ namespace WorkingWithClasses
         }
     }
 }
+
+
 
